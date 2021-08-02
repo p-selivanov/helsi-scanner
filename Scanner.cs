@@ -18,7 +18,6 @@ namespace HelsiScanner
             "moderna",
             "astra",
             "pfizer",
-            //"corona"
         };
 
         private const int DayRangeFromToday = 14;
